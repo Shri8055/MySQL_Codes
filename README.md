@@ -24,3 +24,19 @@ Primary key = unique key of each attribute, Foreign key = primary key is used in
 
 EMP tables and EMP details columns
 ![image](https://github.com/user-attachments/assets/2f4b49e3-c760-484c-8801-1604277c9c27)
+
+To display specific columns from table use SELECT first_name, last_name from emp;
+![image](https://github.com/user-attachments/assets/72b72ac0-9c2b-46fc-a83c-6c8f68ac5fb7)
+
+To display specific columns based on criteria use WHERE
+![image](https://github.com/user-attachments/assets/7cb2b361-dc69-4b9e-aeca-d80e410afbd5)
+![image](https://github.com/user-attachments/assets/3b269e49-74c9-4e2f-8bbd-a287c95d35c1)
+Conditional WHERE
+![image](https://github.com/user-attachments/assets/05b27d44-9c0d-4228-bbba-ab570de6a777)
+
+To Update row values use UPDATE emp SET hourly_pay=25.50 WHERE emp_id=4;
+![image](https://github.com/user-attachments/assets/4ebf2cf9-d9db-4257-9edd-316aaed2217b)
+
+To delete rows use WHERE clause to delete specific rows, if not used then all rows will be deleted
+  ![image](https://github.com/user-attachments/assets/cfe09786-5206-46cc-931e-d7355c8997b0)
+
