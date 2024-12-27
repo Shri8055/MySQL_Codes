@@ -21,3 +21,6 @@ Tables are known as relations, columns are known as attributes, rows are known a
 ER Model stands for Entity Relationship model used to design database bases on strong entity set and weak entity set.
 
 Primary key = unique key of each attribute, Foreign key = primary key is used in another relation.
+
+EMP tables and EMP details columns
+![image](https://github.com/user-attachments/assets/2f4b49e3-c760-484c-8801-1604277c9c27)
