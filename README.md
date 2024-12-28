@@ -43,9 +43,10 @@ To delete rows use WHERE clause to delete specific rows, if not used then all ro
 To avoid any deletion of tables accidently make use of AUTOCOMMIT, COMMIT, ROLLBACK
 ![image](https://github.com/user-attachments/assets/54d65896-9b13-4adc-95ae-9cc7713f25cd)
 Off AUTOCOMMIT and COMMIT then DELETE table all rows will be deleted to retrive rows use ROLLBACK
+COMMIT
 ![image](https://github.com/user-attachments/assets/9aacbd18-ae18-49ef-979d-7f339b1c1db3)
-COMMIT and DELETE rows
+DELETE rows
 ![image](https://github.com/user-attachments/assets/f12c2c54-efc7-43e4-a44c-cf4a0c704bbc)
-ROLLBACK
+ROLLBACK to get rows back
 ![image](https://github.com/user-attachments/assets/fb39a504-e125-4d6d-84b7-d5b1626b23ff)
 
