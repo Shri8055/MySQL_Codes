@@ -50,3 +50,5 @@ DELETE rows
 ROLLBACK to get rows back
 ![image](https://github.com/user-attachments/assets/fb39a504-e125-4d6d-84b7-d5b1626b23ff)
 
+To get current date and time use CURRENT_DTAE(), CURRENT_TIME() // have created test table to get live time
+![image](https://github.com/user-attachments/assets/58370103-b079-4a04-b4f7-db32cf70f544)
