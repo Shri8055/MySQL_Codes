@@ -38,5 +38,6 @@ To Update row values use UPDATE emp SET hourly_pay=25.50 WHERE emp_id=4;
 ![image](https://github.com/user-attachments/assets/4ebf2cf9-d9db-4257-9edd-316aaed2217b)
 
 To delete rows use WHERE clause to delete specific rows, if not used then all rows will be deleted
-  ![image](https://github.com/user-attachments/assets/cfe09786-5206-46cc-931e-d7355c8997b0)
+![image](https://github.com/user-attachments/assets/cfe09786-5206-46cc-931e-d7355c8997b0)
 
+To avoid any deletion of tables accidently make use of AUTOCOMMIT, COMMIT, ROLLBACK
