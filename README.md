@@ -88,3 +88,9 @@ INNER JOIN ![image](https://github.com/user-attachments/assets/8843b307-c8e5-494
 LEFT JOIN ![image](https://github.com/user-attachments/assets/5b17be50-2c68-4086-8541-10151783aa4c)
 RIGHT JOIN ![image](https://github.com/user-attachments/assets/81e88cfe-e99f-4848-85a9-349de185ebf7)
 
+AND, OR, NOT
+
+AND ![image](https://github.com/user-attachments/assets/527ff972-6819-4a42-acb8-2c186f5f9896)
+OR ![image](https://github.com/user-attachments/assets/2cc9b45d-cf4a-4417-ab60-e7590a5d8d21)
+NOT ![image](https://github.com/user-attachments/assets/aafb611b-9538-450a-a468-316bea47653c)
+
