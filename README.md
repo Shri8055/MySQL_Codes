@@ -63,3 +63,7 @@ Use of CHECK is to make valid entries based on condition
 
 NOT NULL used to make column that has some values we can set value to 0 but not NULL
 ![image](https://github.com/user-attachments/assets/c5d01852-76e5-44ae-b5b0-85c2249a5940)
+
+DEFALUT values
+![image](https://github.com/user-attachments/assets/ea81093c-0a27-4dba-af47-fe3722989104)
+
