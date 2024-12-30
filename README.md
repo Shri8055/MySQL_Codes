@@ -82,3 +82,9 @@ AUTO_INCREMENT
 Foreign key, primary key from one table that is used in another tables is called Foreign key
 ![image](https://github.com/user-attachments/assets/65fda6a4-071c-4522-90b4-6afccb283062)
 ![image](https://github.com/user-attachments/assets/fa0b31eb-ba70-4642-b0c6-bdb1523811c7)
+
+JOINS
+INNER JOIN ![image](https://github.com/user-attachments/assets/8843b307-c8e5-4948-9a70-8250bb28874c)
+LEFT JOIN ![image](https://github.com/user-attachments/assets/5b17be50-2c68-4086-8541-10151783aa4c)
+RIGHT JOIN ![image](https://github.com/user-attachments/assets/81e88cfe-e99f-4848-85a9-349de185ebf7)
+
