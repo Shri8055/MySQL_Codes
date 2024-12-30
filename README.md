@@ -52,3 +52,14 @@ ROLLBACK to get rows back
 
 To get current date and time use CURRENT_DTAE(), CURRENT_TIME() // have created test table to get live time
 ![image](https://github.com/user-attachments/assets/58370103-b079-4a04-b4f7-db32cf70f544)
+
+To make a unique column that contains values that are not duplicate
+![image](https://github.com/user-attachments/assets/341975dc-a5d8-4528-a5a1-a5eccb6ae035)
+Error after makeing entry of duplicate  value
+![image](https://github.com/user-attachments/assets/f578bf72-3ba9-4daf-80c2-90f7bd83944a)
+
+Use of CHECK is to make valid entries based on condition
+![image](https://github.com/user-attachments/assets/28c89908-b163-4568-a262-9252d8a8b2b5)
+
+NOT NULL used to make column that has some values we can set value to 0 but not NULL
+![image](https://github.com/user-attachments/assets/c5d01852-76e5-44ae-b5b0-85c2249a5940)
