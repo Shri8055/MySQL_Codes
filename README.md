@@ -67,3 +67,18 @@ NOT NULL used to make column that has some values we can set value to 0 but not 
 DEFALUT values
 ![image](https://github.com/user-attachments/assets/ea81093c-0a27-4dba-af47-fe3722989104)
 
+Finally Primary key
+Create primary key while creating table
+![image](https://github.com/user-attachments/assets/6e252e42-390a-4f30-ba9b-b700f082bb22)
+
+Adding primary key to already created table
+![image](https://github.com/user-attachments/assets/f673694d-07e2-4f44-a5fb-9a1c7cfd831e)
+Can't add duplicates or null to primary key
+![image](https://github.com/user-attachments/assets/953535b5-d364-481a-bc3d-1515cd641299)
+
+AUTO_INCREMENT
+![image](https://github.com/user-attachments/assets/817ca15e-27ff-41ad-9adc-cad2c63db6bb)
+
+Foreign key, primary key from one table that is used in another tables is called Foreign key
+![image](https://github.com/user-attachments/assets/65fda6a4-071c-4522-90b4-6afccb283062)
+![image](https://github.com/user-attachments/assets/fa0b31eb-ba70-4642-b0c6-bdb1523811c7)
