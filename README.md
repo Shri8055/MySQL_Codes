@@ -150,9 +150,17 @@ Table content
 first 1 is offset and second one is limit
 ![image](https://github.com/user-attachments/assets/c25692b5-c237-489f-80ed-3c66a00342fc)
 
-use LINIT in ORDER BY
+use LIMIT in ORDER BY
 ![image](https://github.com/user-attachments/assets/05d7faee-d193-439e-96e1-4263ceb2838c)
 
 UNION
 ![image](https://github.com/user-attachments/assets/9e01101a-293d-422f-b87c-8c433b6c059f)
+
+SELF JOIN
+![image](https://github.com/user-attachments/assets/f519847f-28b9-47e7-99c3-05ba6eb72b96)
+![image](https://github.com/user-attachments/assets/cfdfc0c9-0639-46a3-89e0-729c19f8bc03)
+![image](https://github.com/user-attachments/assets/db1e34c4-58ff-4502-bc73-df8cdefb9a88)
+
+
+
 
