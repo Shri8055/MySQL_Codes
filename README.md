@@ -96,3 +96,15 @@ NOT ![image](https://github.com/user-attachments/assets/aafb611b-9538-450a-a468-
 BETWEEN ![image](https://github.com/user-attachments/assets/61db1f67-9b83-4e81-9813-73d480acebcb)
 IN ![image](https://github.com/user-attachments/assets/6595aecf-60d3-4c09-b5a7-d55225178a52)
 
+Wild cards, 
+% used to search any maching patterns
+![image](https://github.com/user-attachments/assets/812da724-661c-4741-852f-488916951f0e)
+![image](https://github.com/user-attachments/assets/0a8a4626-bfe4-4a5d-bd75-7e1d312193f6)
+
+_ used to find filling space
+![image](https://github.com/user-attachments/assets/3c5a78cb-2782-4248-8777-fb3e80b25ada)
+![image](https://github.com/user-attachments/assets/86749a21-812d-48ff-949d-72c44f8a0017)
+
+Combination
+![image](https://github.com/user-attachments/assets/317081fb-a144-47e3-9405-174b9da71123)
+![image](https://github.com/user-attachments/assets/52e13afa-4c9d-4bdd-abf0-b9214cd2fe7e)
