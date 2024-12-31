@@ -136,3 +136,23 @@ _ used to find filling space
 Combination
 ![image](https://github.com/user-attachments/assets/317081fb-a144-47e3-9405-174b9da71123)
 ![image](https://github.com/user-attachments/assets/52e13afa-4c9d-4bdd-abf0-b9214cd2fe7e)
+
+ORDER BY
+Ascending ![image](https://github.com/user-attachments/assets/3aac4eca-c989-4c2a-a23d-1069589f2eb4)
+Descending ![image](https://github.com/user-attachments/assets/81cf8aa8-501f-4584-a5e8-0450e64c1124)
+
+LIMIT
+![image](https://github.com/user-attachments/assets/b40afd12-9196-4889-a5e9-0a3d5b3fd791)
+
+Table content
+![image](https://github.com/user-attachments/assets/2abafaee-04cd-42b3-8c2b-57a5a97608e0)
+
+first 1 is offset and second one is limit
+![image](https://github.com/user-attachments/assets/c25692b5-c237-489f-80ed-3c66a00342fc)
+
+use LINIT in ORDER BY
+![image](https://github.com/user-attachments/assets/05d7faee-d193-439e-96e1-4263ceb2838c)
+
+UNION
+![image](https://github.com/user-attachments/assets/9e01101a-293d-422f-b87c-8c433b6c059f)
+
