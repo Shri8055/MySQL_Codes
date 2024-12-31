@@ -20,7 +20,35 @@ Tables are known as relations, columns are known as attributes, rows are known a
 
 ER Model stands for Entity Relationship model used to design database bases on strong entity set and weak entity set.
 
-Primary key = unique key of each attribute, Foreign key = primary key is used in another relation.
+*In SQL language
+Tables are known as relations,
+columns are known as attributes,
+rows are known as tuples.
+
+ER Model stands for Entity Relationship model used to design database bases on strong entity set and weak entity set.
+Primary key = unique key of each attribute, Foreign key = primary key is used in another relation
+
+ALTER: Modifies table structure (add/drop/modify columns, rename objects, etc.).
+INSERT: Adds new rows.
+UPDATE: Modifies existing row data.
+DELETE: Removes rows.
+
+To create database use CREATE DATABASE MyDB;
+To use database use USE MyDB;
+To delete database use DROP DATABASE MyDB;
+To delete table use DROP TABLE MyDB;
+To rename table use RENAME TABLE MyDB TO employee;
+To drop table use DROP TABLE employee;
+
+*To make changes in table structure
+To add new column in table use ALTER TABLE employee ADD phone_number INT;
+To rename column name use ALTER TABLE employee RENAME COLUMN phone_number TO email;
+To change datatype of column use ALTER TABLE employee MODIFY COLUMN email VARCHAR(100);
+To change position of column use ALTER TABLE employee MODIFY email VARCHAR(100) AFTER last_name;
+To change position of column to first use ALTER TABLE employee MODIFY email varchar(100) FIRST;
+To delete column use ALTER TABLE employee DROP COLUMN email;
+columns in tables are emp_id, first_name, last_name, hourly_pay, hire_date;
+
 
 EMP tables and EMP details columns
 ![image](https://github.com/user-attachments/assets/2f4b49e3-c760-484c-8801-1604277c9c27)
