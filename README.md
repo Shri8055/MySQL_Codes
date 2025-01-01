@@ -111,7 +111,7 @@ columns in tables are emp_id, first_name, last_name, hourly_pay, hire_date;
 ◎ Can't add duplicates or null to primary key
 ![image](https://github.com/user-attachments/assets/953535b5-d364-481a-bc3d-1515cd641299)
 
-↦ AUTO_INCREMENT
+◎ AUTO_INCREMENT
 ![image](https://github.com/user-attachments/assets/817ca15e-27ff-41ad-9adc-cad2c63db6bb)
 
 ◎ Foreign key, primary key from one table that is used in another tables is called Foreign key
@@ -153,6 +153,7 @@ columns in tables are emp_id, first_name, last_name, hourly_pay, hire_date;
 ![image](https://github.com/user-attachments/assets/52e13afa-4c9d-4bdd-abf0-b9214cd2fe7e)
 
 ◎ ORDER BY
+
 ↦ Ascending ![image](https://github.com/user-attachments/assets/3aac4eca-c989-4c2a-a23d-1069589f2eb4)
 
 ↦ Descending ![image](https://github.com/user-attachments/assets/81cf8aa8-501f-4584-a5e8-0450e64c1124)
@@ -180,3 +181,7 @@ columns in tables are emp_id, first_name, last_name, hourly_pay, hire_date;
 ![image](https://github.com/user-attachments/assets/b28dd611-b07e-4d8c-9462-9311e33b3caf)
 ![image](https://github.com/user-attachments/assets/634eaf4b-471b-4cda-8575-00bc79818e3a)
 ![image](https://github.com/user-attachments/assets/2100f08a-84e7-4387-8b2b-1025f30d2b78)
+
+◎ VIEWS
+![image](https://github.com/user-attachments/assets/cd3b560e-6d6b-41e2-b6f1-be1043b24d5a)
+![image](https://github.com/user-attachments/assets/ddaf1fb7-fc8f-4da4-9e07-601532cd4d9b)
