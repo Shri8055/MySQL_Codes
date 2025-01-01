@@ -160,7 +160,7 @@ SELF JOIN
 ![image](https://github.com/user-attachments/assets/f519847f-28b9-47e7-99c3-05ba6eb72b96)
 ![image](https://github.com/user-attachments/assets/cfdfc0c9-0639-46a3-89e0-729c19f8bc03)
 ![image](https://github.com/user-attachments/assets/db1e34c4-58ff-4502-bc73-df8cdefb9a88)
-
-
-
-
+![image](https://github.com/user-attachments/assets/4d1d2eb3-c303-42b9-a3c4-d03b246c0ee9)
+![image](https://github.com/user-attachments/assets/b28dd611-b07e-4d8c-9462-9311e33b3caf)
+![image](https://github.com/user-attachments/assets/634eaf4b-471b-4cda-8575-00bc79818e3a)
+![image](https://github.com/user-attachments/assets/2100f08a-84e7-4387-8b2b-1025f30d2b78)
