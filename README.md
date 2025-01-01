@@ -59,6 +59,7 @@ To display specific columns from table use SELECT first_name, last_name from emp
 To display specific columns based on criteria use WHERE
 ![image](https://github.com/user-attachments/assets/7cb2b361-dc69-4b9e-aeca-d80e410afbd5)
 ![image](https://github.com/user-attachments/assets/3b269e49-74c9-4e2f-8bbd-a287c95d35c1)
+
 Conditional WHERE
 ![image](https://github.com/user-attachments/assets/05b27d44-9c0d-4228-bbba-ab570de6a777)
 
@@ -70,11 +71,15 @@ To delete rows use WHERE clause to delete specific rows, if not used then all ro
 
 To avoid any deletion of tables accidently make use of AUTOCOMMIT, COMMIT, ROLLBACK
 ![image](https://github.com/user-attachments/assets/54d65896-9b13-4adc-95ae-9cc7713f25cd)
+
 Off AUTOCOMMIT and COMMIT then DELETE table all rows will be deleted to retrive rows use ROLLBACK
+
 COMMIT
 ![image](https://github.com/user-attachments/assets/9aacbd18-ae18-49ef-979d-7f339b1c1db3)
+
 DELETE rows
 ![image](https://github.com/user-attachments/assets/f12c2c54-efc7-43e4-a44c-cf4a0c704bbc)
+
 ROLLBACK to get rows back
 ![image](https://github.com/user-attachments/assets/fb39a504-e125-4d6d-84b7-d5b1626b23ff)
 
@@ -83,6 +88,7 @@ To get current date and time use CURRENT_DTAE(), CURRENT_TIME() // have created 
 
 To make a unique column that contains values that are not duplicate
 ![image](https://github.com/user-attachments/assets/341975dc-a5d8-4528-a5a1-a5eccb6ae035)
+
 Error after makeing entry of duplicate  value
 ![image](https://github.com/user-attachments/assets/f578bf72-3ba9-4daf-80c2-90f7bd83944a)
 
@@ -101,6 +107,7 @@ Create primary key while creating table
 
 Adding primary key to already created table
 ![image](https://github.com/user-attachments/assets/f673694d-07e2-4f44-a5fb-9a1c7cfd831e)
+
 Can't add duplicates or null to primary key
 ![image](https://github.com/user-attachments/assets/953535b5-d364-481a-bc3d-1515cd641299)
 
@@ -113,15 +120,21 @@ Foreign key, primary key from one table that is used in another tables is called
 
 JOINS
 INNER JOIN ![image](https://github.com/user-attachments/assets/8843b307-c8e5-4948-9a70-8250bb28874c)
+
 LEFT JOIN ![image](https://github.com/user-attachments/assets/5b17be50-2c68-4086-8541-10151783aa4c)
+
 RIGHT JOIN ![image](https://github.com/user-attachments/assets/81e88cfe-e99f-4848-85a9-349de185ebf7)
 
 AND, OR, NOT Logical operator
 
 AND ![image](https://github.com/user-attachments/assets/527ff972-6819-4a42-acb8-2c186f5f9896)
+
 OR ![image](https://github.com/user-attachments/assets/2cc9b45d-cf4a-4417-ab60-e7590a5d8d21)
+
 NOT ![image](https://github.com/user-attachments/assets/aafb611b-9538-450a-a468-316bea47653c)
+
 BETWEEN ![image](https://github.com/user-attachments/assets/61db1f67-9b83-4e81-9813-73d480acebcb)
+
 IN ![image](https://github.com/user-attachments/assets/6595aecf-60d3-4c09-b5a7-d55225178a52)
 
 Wild cards, 
