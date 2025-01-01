@@ -50,7 +50,7 @@ To delete column use ALTER TABLE employee DROP COLUMN email;
 columns in tables are emp_id, first_name, last_name, hourly_pay, hire_date;
 
 
-EMP tables and EMP details columns
+◎ EMP tables and EMP details columns
 ![image](https://github.com/user-attachments/assets/2f4b49e3-c760-484c-8801-1604277c9c27)
 
 To display specific columns from table use SELECT first_name, last_name from emp;
@@ -74,13 +74,13 @@ To avoid any deletion of tables accidently make use of AUTOCOMMIT, COMMIT, ROLLB
 
 Off AUTOCOMMIT and COMMIT then DELETE table all rows will be deleted to retrive rows use ROLLBACK
 
-COMMIT
+↦ COMMIT
 ![image](https://github.com/user-attachments/assets/9aacbd18-ae18-49ef-979d-7f339b1c1db3)
 
-DELETE rows
+↦ DELETE rows
 ![image](https://github.com/user-attachments/assets/f12c2c54-efc7-43e4-a44c-cf4a0c704bbc)
 
-ROLLBACK to get rows back
+↦ ROLLBACK to get rows back
 ![image](https://github.com/user-attachments/assets/fb39a504-e125-4d6d-84b7-d5b1626b23ff)
 
 To get current date and time use CURRENT_DTAE(), CURRENT_TIME() // have created test table to get live time
@@ -89,7 +89,7 @@ To get current date and time use CURRENT_DTAE(), CURRENT_TIME() // have created 
 To make a unique column that contains values that are not duplicate
 ![image](https://github.com/user-attachments/assets/341975dc-a5d8-4528-a5a1-a5eccb6ae035)
 
-Error after makeing entry of duplicate  value
+Error after making entry of duplicate value
 ![image](https://github.com/user-attachments/assets/f578bf72-3ba9-4daf-80c2-90f7bd83944a)
 
 Use of CHECK is to make valid entries based on condition
@@ -102,16 +102,16 @@ DEFALUT values
 ![image](https://github.com/user-attachments/assets/ea81093c-0a27-4dba-af47-fe3722989104)
 
 Finally Primary key
-Create primary key while creating table
+↦ Create primary key while creating table
 ![image](https://github.com/user-attachments/assets/6e252e42-390a-4f30-ba9b-b700f082bb22)
 
-Adding primary key to already created table
+↦ Adding primary key to already created table
 ![image](https://github.com/user-attachments/assets/f673694d-07e2-4f44-a5fb-9a1c7cfd831e)
 
 Can't add duplicates or null to primary key
 ![image](https://github.com/user-attachments/assets/953535b5-d364-481a-bc3d-1515cd641299)
 
-AUTO_INCREMENT
+↦ AUTO_INCREMENT
 ![image](https://github.com/user-attachments/assets/817ca15e-27ff-41ad-9adc-cad2c63db6bb)
 
 Foreign key, primary key from one table that is used in another tables is called Foreign key
@@ -119,30 +119,32 @@ Foreign key, primary key from one table that is used in another tables is called
 ![image](https://github.com/user-attachments/assets/fa0b31eb-ba70-4642-b0c6-bdb1523811c7)
 
 JOINS
-INNER JOIN ![image](https://github.com/user-attachments/assets/8843b307-c8e5-4948-9a70-8250bb28874c)
 
-LEFT JOIN ![image](https://github.com/user-attachments/assets/5b17be50-2c68-4086-8541-10151783aa4c)
+↦ INNER JOIN ![image](https://github.com/user-attachments/assets/8843b307-c8e5-4948-9a70-8250bb28874c)
 
-RIGHT JOIN ![image](https://github.com/user-attachments/assets/81e88cfe-e99f-4848-85a9-349de185ebf7)
+↦ LEFT JOIN ![image](https://github.com/user-attachments/assets/5b17be50-2c68-4086-8541-10151783aa4c)
+
+↦ RIGHT JOIN ![image](https://github.com/user-attachments/assets/81e88cfe-e99f-4848-85a9-349de185ebf7)
 
 AND, OR, NOT Logical operator
 
-AND ![image](https://github.com/user-attachments/assets/527ff972-6819-4a42-acb8-2c186f5f9896)
+↦ AND ![image](https://github.com/user-attachments/assets/527ff972-6819-4a42-acb8-2c186f5f9896)
 
-OR ![image](https://github.com/user-attachments/assets/2cc9b45d-cf4a-4417-ab60-e7590a5d8d21)
+↦ OR ![image](https://github.com/user-attachments/assets/2cc9b45d-cf4a-4417-ab60-e7590a5d8d21)
 
-NOT ![image](https://github.com/user-attachments/assets/aafb611b-9538-450a-a468-316bea47653c)
+↦ NOT ![image](https://github.com/user-attachments/assets/aafb611b-9538-450a-a468-316bea47653c)
 
-BETWEEN ![image](https://github.com/user-attachments/assets/61db1f67-9b83-4e81-9813-73d480acebcb)
+↦ BETWEEN ![image](https://github.com/user-attachments/assets/61db1f67-9b83-4e81-9813-73d480acebcb)
 
-IN ![image](https://github.com/user-attachments/assets/6595aecf-60d3-4c09-b5a7-d55225178a52)
+↦ IN ![image](https://github.com/user-attachments/assets/6595aecf-60d3-4c09-b5a7-d55225178a52)
 
 Wild cards, 
-% used to search any maching patterns
+
+↦ % used to search any maching patterns
 ![image](https://github.com/user-attachments/assets/812da724-661c-4741-852f-488916951f0e)
 ![image](https://github.com/user-attachments/assets/0a8a4626-bfe4-4a5d-bd75-7e1d312193f6)
 
-_ used to find filling space
+↦ _ used to find filling space
 ![image](https://github.com/user-attachments/assets/3c5a78cb-2782-4248-8777-fb3e80b25ada)
 ![image](https://github.com/user-attachments/assets/86749a21-812d-48ff-949d-72c44f8a0017)
 
@@ -152,6 +154,7 @@ Combination
 
 ORDER BY
 Ascending ![image](https://github.com/user-attachments/assets/3aac4eca-c989-4c2a-a23d-1069589f2eb4)
+
 Descending ![image](https://github.com/user-attachments/assets/81cf8aa8-501f-4584-a5e8-0450e64c1124)
 
 LIMIT
