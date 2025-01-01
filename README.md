@@ -185,3 +185,7 @@ columns in tables are emp_id, first_name, last_name, hourly_pay, hire_date;
 ◎ VIEWS
 ![image](https://github.com/user-attachments/assets/cd3b560e-6d6b-41e2-b6f1-be1043b24d5a)
 ![image](https://github.com/user-attachments/assets/ddaf1fb7-fc8f-4da4-9e07-601532cd4d9b)
+Opeartions on views
+![image](https://github.com/user-attachments/assets/8b9ea277-4b66-4b2e-9967-e817d2fd2afc)
+
+
