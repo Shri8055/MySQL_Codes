@@ -188,4 +188,6 @@ columns in tables are emp_id, first_name, last_name, hourly_pay, hire_date;
 Opeartions on views
 ![image](https://github.com/user-attachments/assets/8b9ea277-4b66-4b2e-9967-e817d2fd2afc)
 
+Making changes in main table that gets reflected to views
+![image](https://github.com/user-attachments/assets/1160eca2-b6b0-49a1-b822-1a48b688ed84)
 
