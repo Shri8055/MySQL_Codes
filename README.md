@@ -53,26 +53,26 @@ columns in tables are emp_id, first_name, last_name, hourly_pay, hire_date;
 ◎ EMP tables and EMP details columns
 ![image](https://github.com/user-attachments/assets/2f4b49e3-c760-484c-8801-1604277c9c27)
 
-To display specific columns from table use SELECT first_name, last_name from emp;
+◎ To display specific columns from table use SELECT first_name, last_name from emp;
 ![image](https://github.com/user-attachments/assets/72b72ac0-9c2b-46fc-a83c-6c8f68ac5fb7)
 
-To display specific columns based on criteria use WHERE
+◎ To display specific columns based on criteria use WHERE
 ![image](https://github.com/user-attachments/assets/7cb2b361-dc69-4b9e-aeca-d80e410afbd5)
 ![image](https://github.com/user-attachments/assets/3b269e49-74c9-4e2f-8bbd-a287c95d35c1)
 
-Conditional WHERE
+◎ Conditional WHERE
 ![image](https://github.com/user-attachments/assets/05b27d44-9c0d-4228-bbba-ab570de6a777)
 
-To Update row values use UPDATE emp SET hourly_pay=25.50 WHERE emp_id=4;
+◎ To Update row values use UPDATE emp SET hourly_pay=25.50 WHERE emp_id=4;
 ![image](https://github.com/user-attachments/assets/4ebf2cf9-d9db-4257-9edd-316aaed2217b)
 
-To delete rows use WHERE clause to delete specific rows, if not used then all rows will be deleted
+◎ To delete rows use WHERE clause to delete specific rows, if not used then all rows will be deleted
 ![image](https://github.com/user-attachments/assets/cfe09786-5206-46cc-931e-d7355c8997b0)
 
-To avoid any deletion of tables accidently make use of AUTOCOMMIT, COMMIT, ROLLBACK
+◎ To avoid any deletion of tables accidently make use of AUTOCOMMIT, COMMIT, ROLLBACK
 ![image](https://github.com/user-attachments/assets/54d65896-9b13-4adc-95ae-9cc7713f25cd)
 
-Off AUTOCOMMIT and COMMIT then DELETE table all rows will be deleted to retrive rows use ROLLBACK
+◎ Off AUTOCOMMIT and COMMIT then DELETE table all rows will be deleted to retrive rows use ROLLBACK
 
 ↦ COMMIT
 ![image](https://github.com/user-attachments/assets/9aacbd18-ae18-49ef-979d-7f339b1c1db3)
@@ -83,42 +83,42 @@ Off AUTOCOMMIT and COMMIT then DELETE table all rows will be deleted to retrive 
 ↦ ROLLBACK to get rows back
 ![image](https://github.com/user-attachments/assets/fb39a504-e125-4d6d-84b7-d5b1626b23ff)
 
-To get current date and time use CURRENT_DTAE(), CURRENT_TIME() // have created test table to get live time
+◎ To get current date and time use CURRENT_DTAE(), CURRENT_TIME() // have created test table to get live time
 ![image](https://github.com/user-attachments/assets/58370103-b079-4a04-b4f7-db32cf70f544)
 
-To make a unique column that contains values that are not duplicate
+◎ To make a unique column that contains values that are not duplicate
 ![image](https://github.com/user-attachments/assets/341975dc-a5d8-4528-a5a1-a5eccb6ae035)
 
-Error after making entry of duplicate value
+◎ Error after making entry of duplicate value
 ![image](https://github.com/user-attachments/assets/f578bf72-3ba9-4daf-80c2-90f7bd83944a)
 
-Use of CHECK is to make valid entries based on condition
+◎ Use of CHECK is to make valid entries based on condition
 ![image](https://github.com/user-attachments/assets/28c89908-b163-4568-a262-9252d8a8b2b5)
 
-NOT NULL used to make column that has some values we can set value to 0 but not NULL
+◎ NOT NULL used to make column that has some values we can set value to 0 but not NULL
 ![image](https://github.com/user-attachments/assets/c5d01852-76e5-44ae-b5b0-85c2249a5940)
 
-DEFALUT values
+◎ DEFALUT values
 ![image](https://github.com/user-attachments/assets/ea81093c-0a27-4dba-af47-fe3722989104)
 
-Finally Primary key
+◎ Finally Primary key
 ↦ Create primary key while creating table
 ![image](https://github.com/user-attachments/assets/6e252e42-390a-4f30-ba9b-b700f082bb22)
 
 ↦ Adding primary key to already created table
 ![image](https://github.com/user-attachments/assets/f673694d-07e2-4f44-a5fb-9a1c7cfd831e)
 
-Can't add duplicates or null to primary key
+◎ Can't add duplicates or null to primary key
 ![image](https://github.com/user-attachments/assets/953535b5-d364-481a-bc3d-1515cd641299)
 
 ↦ AUTO_INCREMENT
 ![image](https://github.com/user-attachments/assets/817ca15e-27ff-41ad-9adc-cad2c63db6bb)
 
-Foreign key, primary key from one table that is used in another tables is called Foreign key
+◎ Foreign key, primary key from one table that is used in another tables is called Foreign key
 ![image](https://github.com/user-attachments/assets/65fda6a4-071c-4522-90b4-6afccb283062)
 ![image](https://github.com/user-attachments/assets/fa0b31eb-ba70-4642-b0c6-bdb1523811c7)
 
-JOINS
+◎ JOINS
 
 ↦ INNER JOIN ![image](https://github.com/user-attachments/assets/8843b307-c8e5-4948-9a70-8250bb28874c)
 
@@ -126,7 +126,7 @@ JOINS
 
 ↦ RIGHT JOIN ![image](https://github.com/user-attachments/assets/81e88cfe-e99f-4848-85a9-349de185ebf7)
 
-AND, OR, NOT Logical operator
+◎ AND, OR, NOT Logical operator
 
 ↦ AND ![image](https://github.com/user-attachments/assets/527ff972-6819-4a42-acb8-2c186f5f9896)
 
@@ -138,7 +138,7 @@ AND, OR, NOT Logical operator
 
 ↦ IN ![image](https://github.com/user-attachments/assets/6595aecf-60d3-4c09-b5a7-d55225178a52)
 
-Wild cards, 
+◎ Wild cards, 
 
 ↦ % used to search any maching patterns
 ![image](https://github.com/user-attachments/assets/812da724-661c-4741-852f-488916951f0e)
@@ -148,31 +148,31 @@ Wild cards,
 ![image](https://github.com/user-attachments/assets/3c5a78cb-2782-4248-8777-fb3e80b25ada)
 ![image](https://github.com/user-attachments/assets/86749a21-812d-48ff-949d-72c44f8a0017)
 
-Combination
+◎ Combination
 ![image](https://github.com/user-attachments/assets/317081fb-a144-47e3-9405-174b9da71123)
 ![image](https://github.com/user-attachments/assets/52e13afa-4c9d-4bdd-abf0-b9214cd2fe7e)
 
-ORDER BY
-Ascending ![image](https://github.com/user-attachments/assets/3aac4eca-c989-4c2a-a23d-1069589f2eb4)
+◎ ORDER BY
+↦ Ascending ![image](https://github.com/user-attachments/assets/3aac4eca-c989-4c2a-a23d-1069589f2eb4)
 
-Descending ![image](https://github.com/user-attachments/assets/81cf8aa8-501f-4584-a5e8-0450e64c1124)
+↦ Descending ![image](https://github.com/user-attachments/assets/81cf8aa8-501f-4584-a5e8-0450e64c1124)
 
-LIMIT
+◎ LIMIT
 ![image](https://github.com/user-attachments/assets/b40afd12-9196-4889-a5e9-0a3d5b3fd791)
 
-Table content
+◎ Table content
 ![image](https://github.com/user-attachments/assets/2abafaee-04cd-42b3-8c2b-57a5a97608e0)
 
-first 1 is offset and second one is limit
+◎ first 1 is offset and second one is limit
 ![image](https://github.com/user-attachments/assets/c25692b5-c237-489f-80ed-3c66a00342fc)
 
-use LIMIT in ORDER BY
+◎ use LIMIT in ORDER BY
 ![image](https://github.com/user-attachments/assets/05d7faee-d193-439e-96e1-4263ceb2838c)
 
-UNION
+◎ UNION
 ![image](https://github.com/user-attachments/assets/9e01101a-293d-422f-b87c-8c433b6c059f)
 
-SELF JOIN
+◎ SELF JOIN
 ![image](https://github.com/user-attachments/assets/f519847f-28b9-47e7-99c3-05ba6eb72b96)
 ![image](https://github.com/user-attachments/assets/cfdfc0c9-0639-46a3-89e0-729c19f8bc03)
 ![image](https://github.com/user-attachments/assets/db1e34c4-58ff-4502-bc73-df8cdefb9a88)
