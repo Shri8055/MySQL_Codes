@@ -191,3 +191,31 @@ Opeartions on views
 Making changes in main table that gets reflected to views
 ![image](https://github.com/user-attachments/assets/1160eca2-b6b0-49a1-b822-1a48b688ed84)
 
+INDEXES are datastructure in SQL used to search and update columns, UPDATE takes more time then searching.
+
+SUBQUERY query inside anoter query.
+![image](https://github.com/user-attachments/assets/8e256f01-83d8-4715-bd1e-24c94572ee02)
+![image](https://github.com/user-attachments/assets/66b310d2-c4c4-4ff7-9416-52ffc7df88e3)
+
+GROUP BY
+![image](https://github.com/user-attachments/assets/f12bcdd8-a911-4f49-8f95-3566c14c0fd8)
+![image](https://github.com/user-attachments/assets/b747ab73-2401-489e-8836-ce2ad727ece7)
+![image](https://github.com/user-attachments/assets/9dae0083-5afb-4501-b708-18cd1f8a2889)
+![image](https://github.com/user-attachments/assets/6b877981-f072-40ef-bbe8-b756c282d19f)
+
+HAVING clause
+![image](https://github.com/user-attachments/assets/d9d64f09-a9a3-4575-ada7-b0fdf15da168)
+
+ROLLUP clause, extension of GROUP BY clause
+![image](https://github.com/user-attachments/assets/a8fef7da-f2c7-43bd-98b1-4cb48abc5696)
+![image](https://github.com/user-attachments/assets/784852d7-d392-440f-a5cf-5e7948905fd5)
+
+*ON DELETE SET NULL
+![image](https://github.com/user-attachments/assets/4104e58d-cd7a-4d0c-bad3-83d9460edb32)
+![image](https://github.com/user-attachments/assets/c7510c18-6553-424d-9be1-a39bf0ef9607)
+
+*ON DELETE CASCADE
+![image](https://github.com/user-attachments/assets/6404e26e-2325-4c5e-8958-b4ae187af113)
+![image](https://github.com/user-attachments/assets/4fdcafb5-80e3-451c-a1d1-79cd4ece97fd)
+
+
