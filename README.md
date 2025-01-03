@@ -218,4 +218,6 @@ ROLLUP clause, extension of GROUP BY clause
 ![image](https://github.com/user-attachments/assets/6404e26e-2325-4c5e-8958-b4ae187af113)
 ![image](https://github.com/user-attachments/assets/4fdcafb5-80e3-451c-a1d1-79cd4ece97fd)
 
+*Create Procedure
+![image](https://github.com/user-attachments/assets/95e05e57-029a-44e5-8f26-c0daac710c85)
 
